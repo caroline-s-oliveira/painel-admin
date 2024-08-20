@@ -1,0 +1,77 @@
+
+/* index.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  padding: 20px;
+}
+
+.block-right{
+  border: 10px solid rgb(200, 200, 200);
+  padding: 20px 20px 20px 20px ;
+  text-align: center; 
+}
+
+.block-right .block-right-div{
+  min-height: 600px;
+  padding-top: 100px;
+  
+}
+
+.block-titulo{
+  margin-top: 300px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 3em;
+  letter-spacing: -0.2px;
+  word-spacing: 2.4px;
+  color: #a9a9a9;
+  font-weight: 300;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.input-group-text{
+  text-align: left !important;
+}
+
+
+.navbar{
+  border-bottom: 1px solid rgb(169, 169, 169);
+}
+
+.container-list{
+  border: 5px solid rgb(200, 200, 200) ;
+  padding: 20px 20px 20px 20px ;
+  text-align: center;
+}
+
+.lista-users li{
+  text-align: left;
+}
+
+.bi-pencil{
+  margin-right: 10px;
+}
+.container-list{
+    color:#a9a9a9;
+}
+.titulo-h2{
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.editar{
+  color:#a9a9a9;
+  border-bottom: 1px solid rgb(169, 169, 169);
+}
+.container-edit{
+  border: 5px solid rgb(200, 200, 200) ;
+  padding: 20px 20px 20px 20px ;
+  text-align: left;
+
+}
